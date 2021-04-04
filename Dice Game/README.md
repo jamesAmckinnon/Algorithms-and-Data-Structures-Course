@@ -1,1 +1,1 @@
------------- Assignment 2: 2-D Structures, Classes, Methods ------------
+------------ Assignment 2:    2-D Structures, Classes, Methods ------------
