@@ -17,7 +17,7 @@
 public int numLessThan(int lessThanThis){
     int lessThanCount = numLessThanHelper(lessThanThis, root);
     return lessThanCount;
-}
+} 
 
 /**
  * This method finds how many ID numbers are in the tree that are less than
